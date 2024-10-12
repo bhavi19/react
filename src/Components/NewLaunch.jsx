@@ -3,7 +3,7 @@ import Slider from './Carosuel';
 
 const NewLaunch = () => {
     return (
-        <div style={{ height: '300px' }}>
+        <div style={{ height: '400px' }}>
             <Slider />
         </div>
     )

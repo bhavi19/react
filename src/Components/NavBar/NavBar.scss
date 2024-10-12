@@ -1,0 +1,14 @@
+.navbar{
+    height: 100px;
+    color: white !important;
+    background-color: transparent;
+}
+.navbar:hover{
+    background-color: transparent;
+}
+.overlayText {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    z-index: 1;
+  }
